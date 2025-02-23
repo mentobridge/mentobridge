@@ -66,7 +66,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Clone the Repositories**
 ```sh
-git clone https://github.com/org-name/frontend-repo.git
+git clone https://github.com/MENTOBRIDGE-SOLUTIONs/frontend-repo.git
 cd frontend-repo
 ```
 ```sh
