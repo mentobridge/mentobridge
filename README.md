@@ -8,7 +8,7 @@ This project consists of three repositories:
 
 Each repository follows a structured branching model to ensure efficient development, testing, and deployment.
 
-## 🛠Tech Stack
+## Tech Stack
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL
